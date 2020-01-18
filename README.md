@@ -2,8 +2,8 @@
 
 ## Tasks
 
-- a nestJS project - Typescript
-- an express project - Javascript
+- a nestJS project - Typescript: done
+- an express project - Javascript: done
 
 ## Backlog
 
